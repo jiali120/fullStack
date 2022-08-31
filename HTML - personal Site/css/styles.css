@@ -1,0 +1,32 @@
+
+body{
+    background-color: #FCE2DB; 
+}
+
+h1{
+    color:#B270A2;
+}
+
+h3{
+    color: #B270A2;
+}
+
+.cirular{
+    border-radius: 100%;
+}
+
+hr{
+    
+    border-style: dotted none none;
+    border-top-style: dotted;
+    width: 5%;
+    border-color: #FF8FB1;
+    border-width: 5px;
+    
+
+}
+
+img{
+    height: 100px;
+}
+
